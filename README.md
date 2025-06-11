@@ -4,7 +4,7 @@
 
 ---
 
-## 🕹Game Overview
+## Game Overview
 
 * **Objective**: Clear all enemies in each level to progress. Enemies double in count on each new level.
 * **Player Mechanics**:
@@ -86,7 +86,7 @@ Monster Wave/
 
 ---
 
-## 🛠Customization
+## Customization
 
 * **Levels**: Create additional CSV maps and load them by modifying `setup_level()` in `main.py`.
 * **Sprites**: Replace `sprite_sheet.png` with your own art; adjust `animation.py` states.
